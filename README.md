@@ -2,8 +2,6 @@
 
 - Currently studying in [kood/Jõhvi](https://kood.tech).
 
-![GIF](https://media4.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47y7pfrxjpuovhut2x50nfuio6vd70dutybdxaril8&ep=v1_stickers_search&rid=giphy.gif&ct=ts)
-
 <!--
 **veron-ee/veron-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
