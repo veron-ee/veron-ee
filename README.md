@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- Currently studying in [kood/Jõhvi](https://kood.tech).
+
 <!--
 **veron-ee/veron-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
